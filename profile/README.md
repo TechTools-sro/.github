@@ -15,7 +15,7 @@ reliable, efficient solutions delivered with speed, precision and modern technol
 
 [![Our studio](https://img.shields.io/badge/Our_studio-get.techtools.cz-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://get.techtools.cz)
 [![Free tools](https://img.shields.io/badge/50_free_tools-techtools.cz-00b894?style=for-the-badge)](https://techtools.cz)
-[![Email us](https://img.shields.io/badge/company@techtools.cz-Email_us-6c5ce7?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:company@techtools.cz)
+[![Email us](https://img.shields.io/badge/sales@techtools.cz-Email_us-6c5ce7?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sales@techtools.cz)
 
 </div>
 
@@ -72,7 +72,7 @@ A transparent process where you always know exactly what's happening and when it
 
 - 🌍 **[get.techtools.cz](https://get.techtools.cz)** — start with a free demo
 - 🧰 **[techtools.cz](https://techtools.cz)** — try our free tools
-- ✉️ **[company@techtools.cz](mailto:company@techtools.cz)**
+- ✉️ **[sales@techtools.cz](mailto:sales@techtools.cz)**
 
 <div align="center">
 <br>
