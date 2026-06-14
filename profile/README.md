@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://get.techtools.cz">
-  <img src="https://raw.githubusercontent.com/TechTools-sro/.github/main/profile/banner.jpg" alt="TechTools s.r.o. — We build software that works" width="100%">
+  <img src="https://raw.githubusercontent.com/TechTools-sro/.github/main/profile/banner.jpg" alt="TechTools s.r.o. — We build software that works" width="50%">
 </a>
 
 # TechTools s.r.o.
