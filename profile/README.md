@@ -4,17 +4,18 @@
 
 # TechTools s.r.o.
 
-TechTools is a Czech software studio. We build custom web and desktop applications for businesses, and we stay with them from the first consultation through to deployment and long-term support.
+TechTools is a Czech AI software studio. Our focus is artificial intelligence: we build AI automation, implement AI inside existing products and operations, and create software powered by AI. Most of what we do is built around AI — it is both what we deliver for clients and how we build everything.
+
+Alongside client work we run TechTools.cz, a free suite of around 50 browser-based tools.
 
 We are currently taking on new work. Every project starts with a free consultation and a working demo before anything is agreed.
 
 ## What we do
 
-- Web applications: SPAs, PWAs, e-shops, dashboards and CRM systems
-- Websites: responsive, SEO-friendly and quick to load
-- Desktop applications for Windows, macOS and Linux
-- Refactoring and modernising existing codebases
-- Full-stack work, from analysis and architecture through to testing and deployment
+- AI automation — automating workflows, document and data processing, and repetitive tasks with language models and agents
+- AI implementation — adding AI to existing apps, websites and back-office systems: assistants, search and retrieval, classification, content generation
+- AI-powered software — custom applications built around AI from the start
+- Full-stack development — web apps (SPAs, PWAs, e-shops, dashboards, CRM) and desktop apps for Windows, macOS and Linux, plus refactoring and everything from analysis to deployment and support
 
 ## Featured work
 
@@ -28,6 +29,8 @@ We are currently taking on new work. Every project starts with a free consultati
 2. Design and a working demo (free)
 3. Development in short, iterative cycles
 4. Deployment, training and support, with two weeks of free support after launch
+
+We build AI-first ourselves: AI tools are part of our day-to-day development, which keeps us fast without cutting corners on quality.
 
 ## Tech we use
 
