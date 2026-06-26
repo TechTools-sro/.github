@@ -1,5 +1,5 @@
 <a href="https://get.techtools.cz">
-  <img src="https://raw.githubusercontent.com/TechTools-sro/.github/main/profile/banner.jpg" alt="TechTools s.r.o." width="100%">
+  <img src="https://raw.githubusercontent.com/TechTools-sro/.github/main/profile/banner.jpg?v=2" alt="TechTools s.r.o." width="100%">
 </a>
 
 # TechTools s.r.o.
